@@ -24,7 +24,7 @@ def first_challenge
            :age=>"18",
            :attitude=>"hot-headed"
          }
-       ] 
+       ]
      },
      :capulets => {
        :patriarch => {
@@ -51,7 +51,7 @@ def first_challenge
           :age=>"44",
           :attitude=>"worried"
         }
-       ]     
-     }     
+       ]
+     }
   }
 end
